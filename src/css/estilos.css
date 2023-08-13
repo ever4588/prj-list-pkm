@@ -9,6 +9,7 @@ body{
 body.modo-escuro{
     background-color: #212121;
     color: #f5f5f5;
+    
 }
 
 header{
@@ -66,7 +67,13 @@ main .cartao-pokemon:hover{
 }
 
 .modo-escuro .cartao-pokemon:hover{
-    background-color: #a8a8a8;
+    background-color:dimgray;
+    
+}
+
+.modo-escuro .cartao-pokemon{
+    background-color:#a8a8a8;
+    
 }
 
 main .cartao-pokemon .informacoes{
